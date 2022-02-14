@@ -1,10 +1,10 @@
 <h1>Project Screenshots</h1>
 <img src="todo.png">
 <h1>Project Description</h1>
-•	Build the To-do web application from scratch with modern design by using React Native.
-•	To-Do List project is an application specially built to keep track of errands or tasks that need to be done.
-•	Implemented Bootstrap Styled Components in the website. 
-•	Implemented backend React local storage to store the to do tasks after web application termination
+•	Build the To-do web application from scratch with modern design by using React Native.<br>
+•	To-Do List project is an application specially built to keep track of errands or tasks that need to be done.<br>
+•	Implemented Bootstrap Styled Components in the website. <br>
+•	Implemented backend React local storage to store the to do tasks after web application termination.<br>
 
 # Getting Started with Create React App
 
